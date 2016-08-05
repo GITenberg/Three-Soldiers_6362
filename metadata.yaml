@@ -1,0 +1,34 @@
+_repo: Three-Soldiers_6362
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dos Passos, John
+    alias: Passos, John Dos
+    birthdate: 1896
+    deathdate: 1970
+    gutenberg_agent_id: '2015'
+    url: http://www.gutenberg.org/2009/agents/2015
+    wikipedia: http://en.wikipedia.org/wiki/John_Dos_Passos
+description: 'One of the most grimly honest portraits of World War I. Three Soldiers
+  portrays the lives of a trio of army privates: Fuselli, an Italian American store
+  clerk from San Francisco; Chrisfield, a farm boy from Indiana; and Andrews, a musically
+  gifted Harvard graduate from New York. Hailed as a masterpiece on its original publication
+  in 1921, Three Soldiers is a gripping exploration of fear and ambition, conformity
+  and rebellion, desertion and violence, and the brutal and dehumanizing effects of
+  a regimented war machine on ordinary soldiers. -Amazon.com.'
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6362'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Soldiers -- Fiction'
+- !lcc 'PS'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcsh 'War stories'
+- GITenberg
+title: Three Soldiers
+url: http://www.gutenberg.org/ebooks/6362
