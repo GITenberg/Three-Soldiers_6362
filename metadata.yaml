@@ -1,5 +1,8 @@
 _repo: Three-Soldiers_6362
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dos Passos, John
@@ -16,6 +19,8 @@ description: 'One of the most grimly honest portraits of World War I. Three Sold
   in 1921, Three Soldiers is a gripping exploration of fear and ambition, conformity
   and rebellion, desertion and violence, and the brutal and dehumanizing effects of
   a regimented war machine on ordinary soldiers. -Amazon.com.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6362#Three-Soldiers
 gutenberg_issued: '2004-08-01'
 gutenberg_type: Text
 identifiers:
